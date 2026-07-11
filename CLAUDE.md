@@ -1,10 +1,10 @@
 # Hierarchical Data
 
-Django 3 application demonstrating a Dropbox-style hierarchical file/folder structure using `django-mptt` for nested set tree storage.
+Django 4.2 application demonstrating a Dropbox-style hierarchical file/folder structure using `django-mptt` for nested set tree storage.
 
 ## Tech Stack
-- Python 3
-- Django 3
+- Python 3.10+
+- Django 4.2 LTS
 - django-mptt (Modified Preorder Tree Traversal)
 - Poetry (dependency management)
 
