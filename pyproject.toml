@@ -7,7 +7,7 @@ package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.10"
-django = "^4.2"
+django = ">=4.2,<6.0"
 django-mptt = ">=0.16,<0.19"
 
 [build-system]
